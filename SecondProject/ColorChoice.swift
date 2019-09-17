@@ -16,6 +16,9 @@ enum ColorChoice {
         switch self {
         case .blue: return UIColor.blue
         case .green: return UIColor.green
+        case .red: return UIColor.red
+        case .yellow: return UIColor.yellow
+            
         }
     }
 }
